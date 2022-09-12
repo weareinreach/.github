@@ -27,7 +27,7 @@ Another way to help is to volunteer your skills to the platform. Join us to help
 
 Subscribe to our Catalog releases via RSS feeds:
 
-- `https://github.com/asylum-connect/inreach-catalog/releases.atom`
+- `https://github.com/weareinreach/inreach-catalog/releases.atom`
 
 
 ### Social Media
