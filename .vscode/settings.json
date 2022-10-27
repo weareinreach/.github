@@ -1,0 +1,8 @@
+{
+    "yaml.schemas": {
+        "https://json.schemastore.org/github-issue-forms.json": [
+            "file:///Users/joe/GitHub/InReach/orgProfile/ISSUE_TEMPLATE/02_FEATURE_REQUEST.yml",
+            "file:///Users/joe/GitHub/InReach/orgProfile/ISSUE_TEMPLATE/03_CODEBASE_IMPROVEMENT.yml"
+        ]
+    }
+}

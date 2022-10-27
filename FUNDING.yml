@@ -1,0 +1,6 @@
+github: weareinreach
+custom:
+  [
+    inreach.org,
+    'https://secure.givelively.org/donate/inreach?utm_source=github',
+  ]
