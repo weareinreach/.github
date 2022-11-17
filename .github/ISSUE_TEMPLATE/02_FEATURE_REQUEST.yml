@@ -54,7 +54,7 @@ body:
       description: Help can be provided if you need assistance submitting a PR
       multiple: false
       options:
-        - Yes
-        - No
+        - 'Yes'
+        - 'No'
     validations:
       required: true
