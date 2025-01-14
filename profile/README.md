@@ -13,6 +13,7 @@
 - [InReach Platform](https://app.inreach.org/)
 - [InReach Mobile App](https://inreach.org/mobile-app/)
 - [InReach Free Marketing Materials](https://inreach.org/marketing-materials/)
+- [Ways to Take Action](https://inreach.org/inreach-take-action/)
   
 Tax-deductible donations keep InReach free for everyone and support the continued development, expansion, promotion, and accessibility of InReach in local communities throughout North America at this critical moment for LGBTQ+ rights. Together, we can ensure every LGBTQ+ person has on-demand access to the safe, verified resources they need to thrive. 
 
