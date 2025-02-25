@@ -18,8 +18,6 @@ The following is a general suggestion of how to go about making code changes. Th
 ### 3. Before Changing Anything, Research/Determine the Part of the Code That Needs to Be Changed
 - **Find the code itself:** In plain English, summarize what this code is doing.
 - **What other areas of the app rely on this piece of code?**
-- **Look for the existence of unit tests.**
-- **Run the unit tests locally:**
   - Is this part of the code being fully tested?
 
 ### 4. Determine How You Can Implement the Change
@@ -33,7 +31,7 @@ The following is a general suggestion of how to go about making code changes. Th
 ## Getting Ready to Code
 This section is more specific to InReach and the process used by the development team.
 
-1. **Ensure there is an ticket for the request.**
+1. **Ensure there is a ticket for the request.**
    - This should have all the information you need to do the work. If it lacks details, ask questions and add the missing information to the ticket.
    - Having the information in the ticket ensures all members of the team will have access to the details of the requested change.
 2. **Capture use cases and workflows in the ticket.**
